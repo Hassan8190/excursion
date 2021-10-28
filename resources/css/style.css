@@ -1,0 +1,22 @@
+html {
+  background-color: black;
+}
+
+.bigtext {
+  text-align: center;
+  font-family: Verdana;
+  color: white;
+  font-weight: 200;
+  font-size: 50px;
+}
+
+.link {
+  text-align: center;
+  font-family: Verdana;
+  font-weight: 200;
+  font-size: 16px;
+}
+
+a {
+  color: aquamarine;
+}
