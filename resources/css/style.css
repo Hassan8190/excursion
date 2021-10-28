@@ -10,6 +10,14 @@ html {
   font-size: 50px;
 }
 
+.grey {
+  text-align: center;
+  font-family: Verdana;
+  color: gray;
+  font-weight: 200;
+  font-size: 20px;
+}
+
 .link {
   text-align: center;
   font-family: Verdana;
@@ -19,4 +27,15 @@ html {
 
 a {
   color: aquamarine;
+}
+
+.video {
+  text-align: center;
+}
+
+h2 {
+  color: gray;
+  text-align: right;
+  font-weight: 200;
+  font-family: Verdana;
 }
